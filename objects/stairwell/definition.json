@@ -61,6 +61,7 @@
     },
     "stairwell-first-seen": {
       "description": "The timestamp at which an object was first observed by Stairwell",
+      "disable_correlation": true,
       "misp-attribute": "datetime",
       "ui-priority": 0
     },
